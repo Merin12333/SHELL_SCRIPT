@@ -1,4 +1,4 @@
-#Author: JERIL JOY
+#Author: MERIN BABU
 echo "ENTER A NUMBER"
 read n
 if [ 'expr $n % 2' == 0 ]
